@@ -1,16 +1,23 @@
 # Christopher Dierkens
 
-Staff engineer at [Rise](https://www.riseworks.io) in Solon, OH (remote), building the backend that moves money for a global payroll company.
+Staff engineer at Rise. I lead the deposits & withdrawals team — four engineers, three direct reports — on the backend that moves money for a global payroll company.
 
-Recent work:
+Seventeen years across payments, search/AI, e-commerce, healthcare, and retail. I tend to end up owning the highest-leverage part of whatever system I'm on: top contributor to Rise's core backend in under two years, 3k+ pull requests reviewed, and the agent skills library the other five team leads now use.
 
-- Led a 4-engineer team owning deposits and withdrawals; migrated 350k+ withdrawal accounts to a new platform.
-- Built an agent skills library adopted by all 5 other team leads; its behavioral evals caught 58 wrong model-tier assignments.
-- Cut the deposits/withdrawals API's error rate from 0.94% to under 0.01% while traffic grew ~35x.
-- At Physna, grew 3D-model search engagement 110% and shipped a conversational search API (OpenAI, LangChain).
+## Open source
 
-Previously: Physna, Formidable Labs, Asynchrony Labs, Victoria's Secret.
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) — merged: filters for LibSQLVectorStore
+- [shaharia-lab/slackcli](https://github.com/shaharia-lab/slackcli) — merged: `saved` write commands (add, update, complete, reopen, remove)
+- [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) — contributor
+- Issues and PRs on [Effect-TS/effect](https://github.com/Effect-TS/effect), [Next.js](https://github.com/vercel/next.js), [vscode-eslint](https://github.com/microsoft/vscode-eslint), [copilot-cli](https://github.com/github/copilot-cli)
 
-TypeScript, Node.js, Python, Solidity, GCP, AWS, Pulumi, Terraform, MongoDB Atlas Search, Claude Code.
+## Things I've built
+
+- [ptcgl-battle-log-tracker](https://github.com/cdierkens/ptcgl-battle-log-tracker) — desktop companion for Pokémon TCG Live battle logs (Rust)
+- [ptcgl-battle-log-parser](https://github.com/cdierkens/ptcgl-battle-log-parser) — zero-dependency TypeScript parser for battle-log exports
+- [ptcg-decklist-tools](https://github.com/cdierkens/ptcg-decklist-tools) — parse, normalize, identify, diff, and render decklists
+- [qsql](https://github.com/cdierkens/qsql) — QueryString query language
+- [create-effect-app](https://github.com/cdierkens/create-effect-app)
+- [advent-of-code-2024](https://github.com/cdierkens/advent-of-code-2024)
 
 [dierkens.dev](https://dierkens.dev) · [LinkedIn](https://www.linkedin.com/in/cjdierkens) · [Bluesky](https://bsky.app/profile/dierkens.dev)
